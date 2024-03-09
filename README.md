@@ -5,3 +5,5 @@
 ## 📝 Descrição
 
 Repositório com mini projetos da disciplina de Microcontroladores do curso técnico em Sistemas de Energia Renovável, desenvolvidos no TinkerCad.
+
+![Exemplo de projeto](projeto05/projeto05.png)
